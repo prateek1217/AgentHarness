@@ -191,4 +191,4 @@ Refer to `harness.md` for comprehensive details on each pillar and how to implem
 
 ---
 
-**Developer by Prateek Khandelwal**.
+**Developer by Prateek Khandelwal**
